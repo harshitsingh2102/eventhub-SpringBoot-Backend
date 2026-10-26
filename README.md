@@ -740,7 +740,7 @@ This project demonstrates practical understanding of:
 
 ## Author
 
-**Mohammad Masood Ansari**
+**Harshit Singh**
 
 Java / Spring Boot Developer
 
